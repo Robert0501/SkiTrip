@@ -1,0 +1,273 @@
+body {
+	background-color: #B4E3F5;
+}
+
+#firstHalf {
+	position: absolute;
+	width: 600px;
+	height: 910px;
+}
+
+#secondHalf {
+	position: absolute;
+	margin-left: 1300px;
+	width: 600px;
+	height: 910px;
+}
+
+#title {
+	position: absolute;
+	background: #AFEDF6;
+	width: 1500px;
+	height: 100px;
+	border: 3px solid #898A8A;
+	margin-left: 210px;
+}
+
+
+#loginButton {
+	position: absolute;
+	margin-left: -150px;
+	margin-top: 40px;
+	width: 100px;
+	height: 30px;
+	border: 3px solid #898A8A;
+	background-color: #e3f5fb;
+	font-weight : bold;
+	font-family: FontAwesome;
+
+}
+
+#harta {
+	position: absolute;
+	border: 3px solid #898A8A;
+	width: 1200px;
+	height: 800px;
+	margin-top: 103px;
+	margin-left: 210px;
+	background-color: #BCC0C0;
+}
+
+#lista {
+	position: absolute;
+	height: 800px;
+	width: 297px;
+	border: 3px solid #898A8A;
+	margin-left: 1413px;
+	margin-top: 103px;
+	background-color: #e3f5fb;
+}
+
+
+
+ol {
+	margin-top: 30px;
+}
+
+li {
+	padding-top: 10px;
+}
+
+li:hover {
+	cursor: pointer;
+}
+
+#Arieseni {
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 305px;
+	width: 30px;
+	height: 30px;
+}
+
+#ArenaPlatos {
+	position: absolute;
+	margin-top: 435px;
+	margin-left: 445px;
+	width: 30px;
+	height: 30px;
+}
+
+#Azuga {
+	position: absolute;
+	margin-top: 470px;
+	margin-left: 655px;
+	width: 30px;
+	height: 30px;
+}
+
+#BaileHarghita{
+	position: absolute;
+	margin-top: 310px;
+	margin-left: 665px;
+	width: 30px;
+	height: 30px;
+}
+
+#Borsa {
+	position: absolute;
+	margin-top: 90px;
+	margin-left: 550px;
+	width: 30px;
+	height: 30px;
+}
+
+#Borsec {
+	position: absolute;
+	margin-top: 210px;
+	margin-left: 655px;
+	width: 30px;
+	height: 30px;
+}
+
+#Bran {
+	position: absolute;
+	margin-top: 460px;
+	margin-left: 630px;
+	width: 30px;
+	height: 30px;
+}
+
+#Busteni {
+	position: absolute;
+	margin-top: 480px;
+	margin-left: 655px;
+	width: 30px;
+	height: 30px;
+}
+
+#CampulungMoldovenesc {
+	position: absolute;
+	margin-top: 115px;
+	margin-left: 645px;
+	width: 30px;
+	height: 30px;
+}
+
+#Cavnic {
+	position: absolute;
+	margin-top: 90px;
+	margin-left: 430px;
+	width: 30px;
+	height: 30px;
+}
+
+#MunteleMic {
+	position: absolute;
+	margin-top: 480px;
+	margin-left: 270px;
+	width: 30px;
+	height: 30px;
+}
+
+#Parang {
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 410px;
+	width: 30px;
+	height: 30px;
+}
+
+#PoianaBrasov {
+	position: absolute;
+	margin-top: 445px;
+	margin-left: 650px;
+	width: 30px;
+	height: 30px;
+}
+
+#Praid {
+	position: absolute;
+	margin-top: 280px;
+	margin-left: 605px;
+	width: 30px;
+	height: 30px;
+}
+
+#Predeal {
+	position: absolute;
+	margin-top: 475px;
+	margin-left: 665px;
+	width: 30px;
+	height: 30px;
+}
+
+#Ranca {
+	position: absolute;
+	margin-top: 500px;
+	margin-left: 420px;
+	width: 30px;
+	height: 30px;
+}
+
+#Semenic {
+	position: absolute;
+	margin-top: 500px;
+	margin-left: 220px;
+	width: 30px;
+	height: 30px;
+}
+
+#Sinaia {
+	position: absolute;
+	margin-top: 495px;
+	margin-left: 655px;
+	width: 30px;
+	height: 30px;
+}
+
+#StanaDeVale {
+	position: absolute;
+	margin-top: 275px;
+	margin-left: 290px;
+	width: 30px;
+	height: 30px;
+}
+
+#Straja {
+	position: absolute;
+	margin-top: 500px;
+	margin-left: 350px;
+	width: 30px;
+	height: 30px;
+}
+
+#Suior {
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 450px;
+	width: 30px;
+	height: 30px;
+}
+
+#Sureanu {
+	position: absolute;
+	margin-top: 420px;
+	margin-left: 370px;
+	width: 30px;
+	height: 30px;
+}
+
+#Toplita {
+	position: absolute;
+	margin-top: 230px;
+	margin-left: 630px;
+	width: 30px;
+	height: 30px;
+}
+
+#VatraDornei {
+	position: absolute;
+	margin-top: 145px;
+	margin-left: 630px;
+	width: 30px;
+	height: 30px;
+}
+
+#Voineasa {
+	position: absolute;
+	margin-top: 480px;
+	margin-left: 455px;
+	width: 30px;
+	height: 30px;
+}

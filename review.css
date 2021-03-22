@@ -1,0 +1,26 @@
+#review {
+	margin-left: 900px;
+	margin-top: -400px;
+}
+
+p {
+	position: absolute;
+	margin-left: 950px;
+	margin-top: -350px;
+	font-size: 20px;
+}
+
+button {
+	margin-left: 1200px;
+	margin-top: 10px;
+	width: 150px;
+ 	height: 49px;
+  	border: none;
+  	outline: none;
+  	border-radius: 48px;
+  	cursor: pointer;
+  	background-color: #000000;
+  	color: #fff;
+  	text-transform: uppercase;
+  	font-weight: 600;
+}

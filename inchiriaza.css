@@ -1,0 +1,19 @@
+.ski {
+	background-image: url(Pictures/ski.png);
+}
+
+.echipamentSki {
+	background-image: url(Pictures/echipamentSki.png);
+}
+
+.snowboard {
+	background-image: url(Pictures/snowboard.png);
+}
+
+.echipamentSnowboard {
+	background-image: url(Pictures/snowboardEchipament.jpeg);
+}
+
+.card:hover {
+	transform: translateY(-10px);
+}

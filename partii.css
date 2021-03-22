@@ -1,0 +1,108 @@
+
+
+.Arieseni {
+	background-image: url(Pictures/Arieseni.jpg);
+}
+
+.ArenaPlatos {
+	background-image: url(Pictures/ArenaPlatos.jpg);
+}
+
+.Azuga {
+	background-image: url(Pictures/Azuga.jpg);
+}
+
+.BaileHarghita {
+	background-image: url(Pictures/BaileHarghita.jpg);
+}
+
+.Borsa {
+	background-image: url(Pictures/Borsa.jpg);
+}
+
+.Borsec {
+	background-image: url(Pictures/Borsec.jpg);
+}
+
+.Bran {
+	background-image: url(Pictures/Bran.jpg);
+}
+
+.Busteni {
+	background-image: url(Pictures/Busteni.jpg);
+}
+
+.CampulungMoldovenesc {
+	background-image: url(Pictures/CampulungMoldovenesc.jpg);
+}
+
+.Cavnic {
+	background-image: url(Pictures/Cavnic.jpg);
+}
+
+.MunteleMic {
+	background-image: url(Pictures/MunteleMic.jpg);
+}
+
+.Parang {
+	background-image: url(Pictures/Parang.jpg);
+}
+
+.PoianaBrasov {
+	background-image: url(Pictures/PoianaBrasov.jpg);
+}
+
+.Praid {
+	background-image: url(Pictures/Praid.jpg);
+}
+
+.Predeal {
+	background-image: url(Pictures/Predeal.jpeg);
+}
+
+.Ranca {
+	background-image: url(Pictures/Ranca.jpg);
+}
+
+.Semenic {
+	background-image: url(Pictures/Semenic.jpg);
+}
+
+.Sinaia {
+	background-image: url(Pictures/Sinaia.jpg);
+}
+
+.Straja {
+	background-image: url(Pictures/Straja.jpg);
+}
+
+.Suior {
+	background-image: url(Pictures/Suior.jpg);
+}
+
+.Sureanu {
+	background-image: url(Pictures/Sureanu.jpg);
+}
+
+.Toplita {
+	background-image: url(Pictures/Toplita.jpg);
+}
+
+.VatraDornei {
+	background-image: url(Pictures/VatraDornei.jpeg);
+}
+
+
+.Voineasa {
+	background-image: url(Pictures/Voineasa.jpg);
+}
+
+.card:hover {
+	transform: translateY(-10px);
+}
+
+#partii {
+	display: inline-block;
+	width: 100%;
+	height: 165vh;
+}
